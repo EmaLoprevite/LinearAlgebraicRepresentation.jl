@@ -15,13 +15,17 @@ Official Julia implementation of [LAR](http://dx.doi.org/10.1016/j.cad.2013.08.0
 
 ## Installing
 
+### Julia 0.6
 Just run `Pkg.clone("https://github.com/cvdlab/LinearAlgebraicRepresentation.jl")` within a Julia console, and then run `Pkg.build("LinearAlgebraicRepresentation.jl")`.
+
+### Julia 1.0
+pkg> add LinearAlgebraicRepresentation.jl
 
 ## Documentation
 
 Go to [the documentation page](https://cvdlab.github.io/LinearAlgebraicRepresentation.jl/)
 
 ## Authors
-* [Giulio Martella](https://github.com/giuliom95)
 * [Francesco Furiani](https://github.com/furio)
+* [Giulio Martella](https://github.com/giuliom95)
 * [Alberto Paoluzzi](https://github.com/apaoluzzi)
